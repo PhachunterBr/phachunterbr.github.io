@@ -321,19 +321,19 @@ img {
 }
 
 .skills__html {
-  width: 100%;
-}
-
-.skills__css {
   width: 95%;
 }
 
+.skills__css {
+  width: 90%;
+}
+
 .skills__js {
-  width: 50%;
+  width: 45%;
 }
 
 .skills__lua {
-  width: 100%;
+  width: 80%;
 }
 
 .skills__img {
